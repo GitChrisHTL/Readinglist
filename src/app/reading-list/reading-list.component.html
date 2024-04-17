@@ -1,0 +1,5 @@
+<div style="width: 100%; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 5vh;">
+  <app-book *ngFor="let currBook of readingList"
+            [bookInterface]="currBook">
+  </app-book>
+</div>

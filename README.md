@@ -1,6 +1,6 @@
 # Readinglist
 
-This readinglist is an Angular-based web application dedicated to providing online readers with a platform to keep track of their read Manga, Manhwa and co.
+This reading list is an Angular-based web application dedicated to providing online readers with a platform to keep track of their reading of Manga, Manhwa, and co.
 
 <!--## Features
 
@@ -19,7 +19,7 @@ This readinglist is an Angular-based web application dedicated to providing onli
 
 ## Installation
 
-To run this readinglist locally, follow these steps:
+To run this reading list locally, follow these steps:
 
 1. Clone the repository:
 

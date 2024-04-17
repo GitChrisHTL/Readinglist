@@ -1,0 +1,22 @@
+#book {
+  width: 20vw;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+#book img {
+  width: 100%;
+  height: auto;
+}
+
+#book h3, #book p {
+  font-size: 1rem;
+  margin: 5px 10px;
+  color: #333;
+  text-align: center;
+}
